@@ -3,7 +3,7 @@
 <head>
 <script>
 function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
+  document.getElementById("demo").innerHTML = "Title changed.";
 }
 </script>
 </head>
